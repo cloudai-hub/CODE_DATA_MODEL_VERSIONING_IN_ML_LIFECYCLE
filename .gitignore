@@ -1,4 +1,3 @@
-data/
 S3/
 mlruns/
 mlflow.db

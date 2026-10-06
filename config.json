@@ -1,0 +1,8 @@
+{
+    "accuracy": 0.85,
+    "precision": 0.8,
+    "recall": 0.75,
+    "f1_score": 0.78,
+    "latency_ms": 200.0,
+    "roc_auc": 0.88
+}
