@@ -1,0 +1,4 @@
+[core]
+    remote = cloud_bucket
+['remote "cloud_bucket"']
+    url = ../S3
